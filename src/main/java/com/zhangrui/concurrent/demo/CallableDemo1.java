@@ -1,4 +1,4 @@
-package com.zhangrui.concurrent;
+package com.zhangrui.concurrent.demo;
 
 import java.util.concurrent.*;
 
